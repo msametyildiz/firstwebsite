@@ -1,0 +1,98 @@
+/*header unit*/
+#header{
+        background-color: #e3e3e3 !important;
+ }
+img{
+	height: 500px;
+	border-radius: 5px;
+	
+}
+.carousel-item{
+	width: 90% !important;
+}
+.jumbotron{
+	text-align: center;
+}
+
+.nav-link:hover{
+	color: #545350 !important;
+	font-weight: 500;
+}
+/*about unit*/
+.aboutinfo{
+	margin: 50px auto 0 auto;
+	width: 80%;
+	height: 200px;
+	border-radius: 5px;
+	padding-left: 20px;
+	background-color: #f2f2f2 !important;
+}
+#school{
+	text-decoration: none;
+	color: black;
+}
+#school:hover{
+	font-weight: 500;
+}
+.background{
+	background-color:  #fafdff !important ;
+}
+.carouselExampleIndicators{
+	text-align: center !important;
+}
+
+/* contact unit */
+.information{
+	margin: 30px auto 0 auto;
+	max-width: 40%;
+	max-height: 500px;
+	border-radius: 5px;
+	padding-right: 20px;
+	padding-left: 20px;
+	overflow: hidden;
+	background-color:#f2f2f2 ;
+	text-align: center;	
+}
+.socialmedia{
+	max-height: 37px;
+	max-width: 37px;
+	border-radius: 30px;
+
+}
+textarea{
+	border-radius: 15px;
+}
+.content{
+	text-align: center;
+	width: 70%;
+	margin: 0 auto;
+	margin-top: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	overflow: hidden;
+	background-color: #f2f2f2;
+	border-radius: 5px;
+}
+textarea,input[type="text"]::placeholder { 
+                text-align: center;
+ }
+input{
+	border-radius: 5px;
+}
+button{
+	border-radius: 5px;
+}
+button:hover{
+	background-color: darkgray;
+}
+.projects{
+	
+	background-color: #bf8680;
+	max-width: 20%;
+	border-radius: 15px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 200px 0 auto 650px;
+	font-size: 20px;
+}
